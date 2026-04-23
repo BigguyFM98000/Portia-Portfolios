@@ -1,4 +1,4 @@
-# portia-portfolio
+# portia-portfolio-website
 <img src="https://github.com/BigguyFM98000/Portia-Portfolios/blob/main/img/portfolio-landing-page.png" alt="picture no showing" />
 
 Built using the following tools
